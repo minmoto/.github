@@ -1,11 +1,9 @@
-# About Bitsacco
+# At Minmo
 
-Bitsacco is a Savings and Credit Cooperative Organization running on Bitcoin.
+We build and integrate financial service infrastructure designed specifically for communities. Our technologies enable direct and simplified access to a range of financial services, fostering inclusion and economic empowerment.
 
-We build technologies that allow our members direct and simplified access to Bitcoin services, including individual and group savings,
+We focus on creating scalable, secure, and compliant solutions that support community-based financial needs such as payments, savings, and governance. Our open, collaborative platforms empower members to participate in and benefit from modern financial systems.
 
-Bitsacco is built on Fedimint, a modular open-source protocol to custody and transact bitcoin and more in a community context, built on a strong foundation of privacy.
+Check out our website: https://minmo.to
 
-Check out our website: https://bitsacco.com
-
-You can also follow us on X : https://x.com/bitsacco 
+You can also follow us on X: https://x.com/minmo_to
